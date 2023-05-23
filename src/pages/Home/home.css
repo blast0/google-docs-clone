@@ -1,0 +1,37 @@
+.template-section{
+height: 315px;
+}
+.templates{
+  margin-top: 10px;
+margin-left: 390px;
+}
+.newdoc-icon{
+  width: 145px;
+  border-radius: 3px;
+  border-width: 1px;
+}
+.gallery-options{
+  display: flex ;
+  align-items: center;
+  color:#5d5c5c;
+}
+.updown{
+  margin-left: 5px;
+}
+.templates-btn{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+.templates-btn:hover{
+background-color: #8d8d8d83;
+}
+.bar{
+  border-right: 0.5px solid  #8b8b8b83;
+}
+.template-settings{
+  margin-left: 10px;
+}

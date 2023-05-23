@@ -1,0 +1,82 @@
+.menu-options{
+margin-left: -5px;
+color: black;
+}
+.editor-header{
+background-color: #f9fbfd;
+padding-top: 5px;
+}
+.home-icon{
+  margin-left: 10px;
+}
+.option{
+  cursor: pointer;
+  padding: 2px 6px;
+  border-radius: 5px;
+}
+.option:hover{
+  background-color: #e3e3e3;
+}
+.file-details{
+  display: flex;
+  align-items: center;
+  gap: 10px
+}
+.favourite{
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+}
+.favourite:hover{
+  cursor: pointer;
+  background-color: #e9e9e9;
+}
+.share-btn{
+  border-radius: 20px;
+  height: 40px;
+  gap: 5px;
+  background-color: #c2e7ff;
+  padding: 0px 24px;
+  font-size: 14px;
+  margin: 0 10px;
+}
+
+.share-btn:hover{
+  background-color: #abcfe7;
+  box-shadow:0px 1px 2px 0px #5d5c5c;
+}
+.profile{
+  margin-right: 15px;
+  margin-left: 15px;
+  height: 40px;
+  width: 40px;
+}
+.comment-icon{
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  margin: 0 12px;
+}
+#name {
+  display: block;
+  margin: 20px;
+  width: auto;
+}
+.profile-icon-editor{
+margin-right: 15px;
+margin-bottom: 4px;
+}
+.home{
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.profile:hover, .comment-icon:hover, .video-icon:hover{
+  background-color: #e2e2e2;
+}
+
+.video-icon{
+  height: 40px;
+  width: 70px;
+  border-radius: 50px;
+  margin: 0 12px;
+}

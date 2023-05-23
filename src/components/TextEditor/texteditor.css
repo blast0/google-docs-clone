@@ -1,0 +1,11 @@
+.toolbar{
+  justify-content: center;
+  flex-direction: row-reverse;
+  border-radius: 50px;
+  background-color: #edf2fa;
+  margin: 0 20px;
+  height: 40px;
+}
+.rdw-editor-wrapper{
+  background-color:#f9fbfd ;
+}
